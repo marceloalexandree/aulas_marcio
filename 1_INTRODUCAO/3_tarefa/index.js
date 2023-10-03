@@ -1,3 +1,3 @@
-let rapha = 1
-let veiga = 2
-console.log(rapha+veiga)
+let marcelo = 1
+let lindo = 2
+console.log(marcelo+lindo)
